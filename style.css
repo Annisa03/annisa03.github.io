@@ -77,7 +77,7 @@ html{
     padding: 10px 35px;
     background-color: transparent;
     border: 1px solid grey;
-    color: black;
+    color: white;
     outline: none;
     transition: .6s ease;
     height: 40px;
@@ -87,8 +87,8 @@ html{
 }
 .btn:hover{
     cursor: pointer;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     box-shadow: 0px 0px 5px white, 0px 0px 10px white, 0px 0px 15x white;
     font-weight: bold;
 }
